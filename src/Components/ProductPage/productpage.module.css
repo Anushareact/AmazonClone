@@ -1,0 +1,30 @@
+.Image{
+    height:270px;
+    width: 200px;
+    margin-left: 20px;
+}
+
+.ProductContainer{
+   
+padding:200px;
+
+
+}
+.cartButton{
+    margin-left: 30px;
+    margin-top: 20px;
+    height:30px;
+    width: 200px;
+    background-color:#f0c14b;
+    border-radius: 15px;
+}
+.Grid{
+    height:300px;
+    border:1px solid rgb(83, 79, 79);
+    border-radius: 15px;
+    background-color:rgb(241, 238, 233);
+
+
+
+
+}

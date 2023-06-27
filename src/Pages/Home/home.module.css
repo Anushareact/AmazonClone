@@ -1,0 +1,13 @@
+.header_items {
+  display: flex;
+  background-color: #2b2727;
+  color: white;
+}
+.header_items p {
+  margin: 10px;
+}
+/* .products{
+    display: flex;
+  background-color: aquamarine;
+   
+} */

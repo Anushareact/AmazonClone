@@ -1,0 +1,8 @@
+.slidercontainer {
+  max-width: 1500px;
+  max-height: 500px;
+}
+.slideImage {
+  height: 400px;
+  width: 300px;
+}

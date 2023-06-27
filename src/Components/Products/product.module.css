@@ -1,0 +1,29 @@
+.productsContainer {
+  height: 320px;
+  width: 270px;
+  background-color: aquamarine;
+  margin-left: 30px;
+  margin-top: 10px;
+  border: 2px solid rgb(34, 155, 34);
+  border-radius: 15px;
+}
+.productImage{
+    height: 200px;
+     width: 200px; 
+     margin-left: 20px;
+     border-radius: 10px;
+     margin-top: 10px;
+
+
+}
+.title{
+    margin-left: 25px;
+    font-weight: bold;
+}
+.cartButton{
+    margin-left: 20px;
+    height:30px;
+    width: 200px;
+    background-color:#f0c14b;
+    border-radius: 15px;
+}

@@ -1,0 +1,58 @@
+.searchContainer {
+  border: 2px solid black;
+  position: absolute;
+  left: 25%;
+  border-radius: 10px;
+  height: 7%;
+  width: 38%;
+  color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 6%;
+  background-color: white;
+}
+
+.alldropdown {
+  color: #857b7bd2;
+  position: absolute;
+  left: 0%;
+  padding: 10px;
+  background-color: white;
+  height: 50.6%;
+  width: 7%;
+  border-radius: 10px;
+}
+.inputContainer {
+  display: flex;
+  flex-direction: row;
+}
+.searchinput {
+  height: 35px;
+  width: 80%;
+  position: absolute;
+  left: 10%;
+  /* height: 7%;
+  width: 38%; */
+  border: none;
+}
+input:focus {
+  outline: none;
+  border: none;
+}
+.searchIconDivision {
+  height: 42px;
+  width: 45px;
+
+  background-color: rgb(216, 155, 76);
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 8px;
+  position: absolute;
+  left: 92%;
+}
+.searchicon {
+  padding: 12px 14px;
+  margin: 0px 50px 10% 0px;
+  border-top-right-radius: 9px;
+  border-bottom-right-radius: 9px;
+}

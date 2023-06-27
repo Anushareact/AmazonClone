@@ -1,0 +1,48 @@
+.orderContainer {
+  max-width: 500px;
+  max-height: 1200px;
+  border: 1px solid rgb(196, 171, 171);
+  border-radius: 15px;
+  margin-left: 25%;
+  padding: auto;
+  margin-top:3%;
+}
+.formStyles{
+    border: 2px solid magenta;
+    border-radius: 15px;
+     max-width: 400px;
+  max-height: 900px;
+  margin-top:20px;
+  margin-left: 10%;
+}
+.textField {
+  border-radius: 15px;
+}
+.buttonContainer{
+    margin-top: 3%;
+    
+ 
+
+}
+.submitbtn {
+  margin-left: 15%;
+    border: 1px solid rgb(231, 239, 231);
+    padding: 10px 25px;
+    border-radius: 15px;
+    background-color: antiquewhite;
+
+}
+.cancelbtn{
+      margin-left: 15%;
+    border: 3px solid rgb(231, 239, 231);
+    padding: 10px 25px;
+    border-radius: 15px;
+    background-color: antiquewhite;
+
+}
+.title{
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+
+}
